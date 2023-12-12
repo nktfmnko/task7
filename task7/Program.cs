@@ -6,20 +6,18 @@ using System.Threading.Tasks;
 
 namespace task7
 {
-    internal class Program
+    public class Program
     {
-        
+        public static double MultiplyBy2(double x)
+        {
+            return x * 2;
+        }
         static void Main(string[] args)
         {
-            double MultiplyBy2(double x)
-            {
-                return x * 2;
-            }
-
+         
             Console.WriteLine(MultiplyBy2(4));
-
-            халк крушить билд
 
         }
     }
 }
+

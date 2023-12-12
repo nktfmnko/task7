@@ -50,6 +50,8 @@ namespace task7
                     Console.WriteLine("Error creating task: " + response.StatusCode);
                 }
                 Console.WriteLine(MultiplyBy2(4));
+
+                ломаем билд
             }
         }
     }

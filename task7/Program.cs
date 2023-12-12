@@ -18,6 +18,8 @@ namespace task7
 
             Console.WriteLine(MultiplyBy2(4));
 
+            халк крушить билд
+
         }
     }
 }

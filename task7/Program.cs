@@ -31,7 +31,7 @@ namespace task7
             
                 var taskData = new
                 {
-                    queue_id = "TEAMCITYBUILDFA",
+                    queue_id = "bpfgia3hvhv162pv07k3",
                     summary = "Build failed",
                     description = "Build failed in TeamCity",
                     assignee = "nktfmnko@gmail.com"
